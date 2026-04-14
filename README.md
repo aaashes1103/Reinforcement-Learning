@@ -4,8 +4,9 @@ This repository contains the lecture notes and code for the course **"Mathematic
 
 structure of the repository:
 
-'''text
+```text
+.
 ├── README.md
-├── Lecture_Notes <-- contains the lecture notes in PDF format
-├── Code <-- codes to be added in the future
-'''
+├── Lecture_Notes/  # contains the lecture notes in PDF format
+└── Code/           # codes to be added in the future
+```
